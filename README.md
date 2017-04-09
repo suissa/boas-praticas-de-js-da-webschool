@@ -1,8 +1,8 @@
-# Boas praticas de js da Webschool
+# Boas práticas de js da Webschool
 
 <br>
 
-Defini algumas regras simples para meus alunos escreverem códigos melhores, baseando-me
+Defini algumas regras simples para meus alunos escreverem códigos melhores, baseando-me em
 
 
 ## Regras
@@ -14,12 +14,12 @@ Defini algumas regras simples para meus alunos escreverem códigos melhores, bas
 
 <br>
 
-> **ESQUECa QUE EXISTE VaR POR FaVOR!!!!**
+## ESQUECa QUE EXISTE VaR POR FaVOR!!!!
 
 
 #### Functions
 
-> SEMPRE use *arrow function*! Só esta liberado o uso de `function` quando você
+> SEMPRE use *arrow function*! Só está liberado o uso de `function` quando você
 precisar de `this`, de preferência nunca.
 
 
